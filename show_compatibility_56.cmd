@@ -1,0 +1,1 @@
+mysql -u root -p < show_compatibility_56.sql
